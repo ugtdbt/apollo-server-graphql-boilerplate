@@ -1,0 +1,8 @@
+{
+    "host": "smtp.dreamhost.com",
+    "port": 587,
+    "auth": {
+      "user": "test@crew.lk",
+      "pass": "*********"
+    }
+}
