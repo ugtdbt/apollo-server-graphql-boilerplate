@@ -4,3 +4,4 @@ package-lock.json
 .env
 /src/config/config.json
 /src/config/email.json
+emaillogger.log
